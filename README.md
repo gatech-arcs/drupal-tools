@@ -1,2 +1,1 @@
-# drupal-compat
-# drupal-compat
+# gt_tools compatibility module
